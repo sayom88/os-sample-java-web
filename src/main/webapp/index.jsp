@@ -16,7 +16,8 @@
 <title>Open Shift Hello World</title>
 
 </head>
-<body>
+<body style="background-color:lightblue;">
+  
 <h2>Hello World with OpenShift_2!</h2>
 </body>
 </html>
